@@ -26,3 +26,8 @@ class Person{
 var jim = new Person(6, 220, 4, "boy")
 console.log(jim);
 console.log(jim.getInfo());
+
+console.log("holy shirt balls")
+console.log("in a hurry? eat some chimichuri, or french fries with a side of curry, or maybe a small oreo mcflurry")
+
+
