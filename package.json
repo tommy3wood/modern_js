@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/tommy3wood/modern_js#readme",
   "dependencies": {
-    "codemirror": "^5.51.0",
+    "codemirror": "^5.58.2",
     "mathjs": "^6.6.0",
     "moment": "^2.24.0"
   },
